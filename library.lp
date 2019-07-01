@@ -1,6 +1,6 @@
 (librepcb_library c5941334-5502-4992-b5aa-cc2f8d0d17a1
  (name "Luminus")
- (description "Lighting components (inofficial).")
+ (description "Lighting components (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")

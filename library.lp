@@ -3,7 +3,7 @@
  (description "Lighting components (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-11-06T20:44:37Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Luminus.lplib")

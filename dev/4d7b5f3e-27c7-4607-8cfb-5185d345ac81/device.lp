@@ -3,7 +3,7 @@
  (description "Luminus Mid Power LED, 3V.")
  (keywords "led,white,luminus")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2018-11-06T21:48:51Z)
  (deprecated false)
  (generated_by "")

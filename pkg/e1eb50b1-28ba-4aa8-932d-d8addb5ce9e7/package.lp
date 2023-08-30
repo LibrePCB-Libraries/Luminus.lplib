@@ -3,7 +3,7 @@
  (description "The MP-3014 package by Luminus.")
  (keywords "luminus,led,3014,mp3014,mp-3014,1206")
  (author "Danilo B.")
- (version "0.2")
+ (version "0.3")
  (created 2018-11-06T20:48:49Z)
  (deprecated false)
  (generated_by "")

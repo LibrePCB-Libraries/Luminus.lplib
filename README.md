@@ -2,8 +2,8 @@
 
 ## Description
 
-This is a [LibrePCB](https://librepcb.org) library!
-Just edit this file to add a description about it.
+This is a [LibrePCB](https://librepcb.org) library providing devices
+from [Luminus](https://www.luminus.com).
 
 ## License
 
